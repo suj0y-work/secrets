@@ -4,12 +4,12 @@
                       https://maven.apache.org/xsd/settings-1.0.0.xsd">
   <servers>
      <server>
-      <id>lenovo-auto-delete-maven-local</id>
+      <id>client-auto-delete-maven-local</id>
       <username>LOGIN_NAME</username>
       <password>qBFtwTiiejpj/tndsH5eiRKnBXJKhqjEvgB/l3Cj6cU</password>
     </server>
     <server>
-      <id>lenovo-release-maven-local</id>
+      <id>client-release-maven-local</id>
       <username>LOGIN_NAME</username>
       <password>qBFtwTiiejpj/tndsH5eiRKnBXJKhqjEvgB/l3Cj6cU</password>
     </server>
